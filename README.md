@@ -1,2 +1,2 @@
 # easySlider
-try to write more easiest slider
+try of writing more easiest slider
